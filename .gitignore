@@ -1,7 +1,5 @@
 .DS_Store
 figures/
 data/
-outputs/
-code/.ipynb_checkpoints/
-code/__pycache__/
-notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+__pycache__/
