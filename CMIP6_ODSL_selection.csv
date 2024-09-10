@@ -1,4 +1,4 @@
-model,ODSL
+model,ODSL cond
 ACCESS-CM2,TooHigh
 ACCESS-ESM1-5,Good
 BCC-CSM2-MR,TooLow
